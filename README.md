@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Leonardo Brancaglione</h1>
 <h3 align="center">Desenvolvedor Web</h3>
-img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkMI0yQOsMALgCGLwpwJmHDgIQILDDyKYGtqUlQWBAGj0OME45e78j0QNQRhWBTX7PvpM&usqp=CAU"
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkMI0yQOsMALgCGLwpwJmHDgIQILDDyKYGtqUlQWBAGj0OME45e78j0QNQRhWBTX7PvpM&usqp=CAU"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lbrancaglione&label=Profile%20views&color=0e75b6&style=flat" alt="lbrancaglione" /> </p>
 
